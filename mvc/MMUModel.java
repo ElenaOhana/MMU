@@ -86,7 +86,6 @@ public class MMUModel {
 			{
 				commands.add(line);
 			}
-			
 		}
 	}
 }
